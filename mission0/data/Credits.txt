@@ -1,0 +1,28 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center>
+CREDITS
+
+\c[2]Engine
+RPG Maker MV
+
+\c[2]Plugin Programmer
+MessageBusts, RollCredits, VisualNovelChoices : Galv
+한글메세지 시스템 : biud436
+OGG Only : krmbu0576
+TitlePictureCom, MapNameHUD : Moghunter
+
+\c[2]Artwork
+RPG Maker MV
+Portrait - Whatcat Works
+BG Screenshot - Where Winds Meet
+
+\c[2]BGM
+애련정 by BGM Factory
+
+\c[2]Font
+빛의 계승자 - 펀플로X산돌
+
+< COMPLETE >
+</block>
