@@ -16,7 +16,6 @@ TitlePictureCom, MapNameHUD : Moghunter
 \c[2]Artwork
 RPG Maker MV
 Portrait - Whatcat Works
-BG Screenshot - Where Winds Meet
 
 \c[2]BGM
 애련정 by BGM Factory
